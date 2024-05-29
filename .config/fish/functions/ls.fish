@@ -1,3 +1,3 @@
 function ls
-eza -l --icons=always --color=always $argv
+    eza -l --icons=always --color=always $argv
 end
